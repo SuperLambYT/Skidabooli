@@ -1,0 +1,23 @@
+.timer {
+    text-align: center;
+    width: 150px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.button {
+    margin: 10px auto;
+}
+
+.input {
+    width: 270px;
+}
+
+.h2 {
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
